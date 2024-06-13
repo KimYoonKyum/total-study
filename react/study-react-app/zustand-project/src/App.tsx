@@ -1,11 +1,14 @@
 import "./App.css";
-import UserNameInput from "./components/UserNameInput.tsx";
+// import WebSocketComponent from "./components/WebSocketComponent.tsx";
+// import WebSocketIOComponent from "./components/WebSocketIOComponent.tsx";
+// import WebSocketComponent from "./components/WebSocketComponent.tsx";
 
 function App() {
   return (
-    <div>
-      <UserNameInput />
-    </div>
+    <>
+        {/*<WebSocketComponent />*/}
+        {/*<WebSocketIOComponent />*/}
+    </>
   );
 }
 
